@@ -1,0 +1,14 @@
+/build/
+/tools/release/
+/.claude/
+/.codex/
+/BIOS/
+/roms/
+/SAVES/
+*.uf2
+*.elf
+*.bin
+*.rom
+*.sav
+*.srm
+*.map

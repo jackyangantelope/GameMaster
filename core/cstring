@@ -1,0 +1,7 @@
+#pragma once
+
+#ifdef __cplusplus
+#include_next <cstring>
+#else
+#include <string.h>
+#endif

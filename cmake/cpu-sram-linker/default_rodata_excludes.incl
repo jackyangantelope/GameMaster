@@ -1,0 +1,1 @@
+*(EXCLUDE_FILE(*libgcc.a: *libc.a: *lib*_a-mem*.o *libm.a: *libgmaster_core.a:gmaster_upd7810.cpp.obj) .rodata*)
